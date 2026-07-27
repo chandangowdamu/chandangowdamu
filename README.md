@@ -8,18 +8,17 @@
 <div align="center">
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chandangowdamu@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/chandangowdamu" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://visionary-snickerdoodle-241088.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00C853?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 <a href="https://github.com/chandangowdamu" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<img src="https://komarev.com/ghpvc/?username=chandangowdamu&style=for-the-badge&color=0A66C2"/>
 
 </div>
 
@@ -112,21 +111,14 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandangowdamu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandangowdamu&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandangowdamu&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
-
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=chandangowdamu&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandangowdamu&theme=tokyonight&hide_border=true"/>
 </div>
-
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chandangowdamu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=chandangowdamu&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
