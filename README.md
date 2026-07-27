@@ -1,162 +1,170 @@
+# <div align="center">👋 Namaskara! I'm Chandan Gowda</div>
+
+
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+GenAI+Enthusiast;Building+Intelligent+AI+Systems;Transforming+Data+into+Insights;Creating+The+Future+of+AI" alt="Typing SVG" />
+</div>
 
-# 👋 Namaskara! I'm Chandan Gowda 
-
-### <span style="color:#00F7FF">Full Stack Developer</span>
-
-<a href="mailto:darshanhegdehegde@gmail.com">
-<img src="https://img.shields.io/badge/-EMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://your-portfolio-link.com">
-<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-00B86B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PROFILE_VIEWS-333333?style=for-the-badge"/> <img src="https://komarev.com/ghpvc/?username=DarshanHegde17&style=for-the-badge&color=8250DF&label=+"/>
+<div align="center">
+[![Email](https://img.shields.io/badge/Email-chandangowdamu%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandangowdamu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anupamhegde)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://portfolio-two-rose-61.vercel.app/)
+![Profile Views](https://komarev.com/ghpvc/?username=anupam-hegde&color=blueviolet&style=for-the-badge)
 
 </div>
 
 ---
 
-### 🎯 About Me
+## 🎯 About Me
+
+<img align="right" alt="Future Dev" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```python
-class FullStackDeveloper:
+class MLEngineer:
     def __init__(self):
-        self.name = "Chandan Gowda M U"
-        self.role = "Full Stack Developer & AI Explorer"
-        self.education = "MCA Student"
-        self.interests = ["Full Stack Development", "Artificial Intelligence",
-                           "Data Science, "System Design"]
-        self.current_focus = "Building scalable, secure & intelligent applications"
+        self.name = "Anupam Hegde"
+        self.role = "ML Engineer & GenAI Developer"
+        self.location = "Bengaluru, India 🇮🇳"
+        self.interests = ["AI Agents", "Deep Learning", 
+                         "Computer Vision", "Machine Learning", "RAG Systems"]
+        self.current_focus = "Building production-ready GenAI applications"
         self.coffee_consumed = "∞"
-
+    
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing 🚀")
+        print("Thanks for dropping by! Let's build something amazing together!")
 
-me = FullStackDeveloper()
+me = MLEngineer()
 me.say_hi()
 ```
 
-🔥 **Passionate about** turning ideas into real-world, production-ready web applications — one commit at a time.
+🔥 **Passionate about** leveraging Machine Learning and Generative AI to solve real-world problems  
+💡 **Currently exploring** Prompt engineering, and agentic AI workflows  
+🌱 **Learning** RAG architectures and multimodal AI systems  
+🎓 **Mission** Creating AI solutions that make a tangible impact
 
 ---
 
-### 🛰️ What I'm Up To Right Now
+## 🔭 What I'm Up To Right Now
 
-- 🚀 **Building:** Full stack apps with the MERN stack
-- 📚 **Learning:** Docker, AWS, and System Design
-- 🎯 **2026 Goal:** Contribute to 5+ open-source projects
-- 💬 **Ask me about:** JavaScript/TypeScript, Java, React, or Figma-to-code workflows
-- ⚡ **Fun fact:** I debug faster with coffee ☕
+- 🚀 Building: **Multi-agent RAG system with LangGraph**
+- 📚 Learning: **Advanced prompt engineering & LLM optimization**
+- 🎯 2026 Goal: **Contribute to 5+ open-source AI projects**
+- 💬 Ask me about: **LangChain, Machine Learning, RAG, Vector DBs**
+- ⚡ Fun fact: **I debug faster with coffee ☕ and lo-fi music 🎵**
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="70%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anupam-hegde&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-hegde&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupam-hegde&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anupam-hegde&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ---
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+## 🛠️ Tech Arsenal
 
+### **🤖 Machine Learning & AI**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+</p>
 
+### **🧠 Generative AI & LLMs**
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandangowdamu&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="70%"/>
-</div>
+### **📊 Data Science & Analysis**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
----
+### **⚙️ MLOps & Deployment**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,aws,fastapi" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white" />
+</p>
 
-### 🧰 Tech Arsenal
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-**Frontend**
-
-</div>
-
-
-<div align="center">
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
-**Backend & Data**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-**DevOps & Tools**
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+### **🗄️ Vector Databases & Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weaviate-00C7B7?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
-### 📈 Contribution Activity
+
+
+## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshanHegde17&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anupam-hegde&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
 </div>
 
-### 🖥️ Coding Stats
 
+
+## 💻 Coding Stats
+
+<!--START_SECTION:waka-->
 ```text
-JavaScript  ██████████████░░░░░░  62.4%
-TypeScript  ██████░░░░░░░░░░░░░░  24.1%
-Python      ███░░░░░░░░░░░░░░░░░  9.8%
-HTML/CSS    ██░░░░░░░░░░░░░░░░░░  3.7%
+Python       ████████████████████░░░   85.2%
+JavaScript   ██░░░░░░░░░░░░░░░░░░░   8.5%
+Markdown     █░░░░░░░░░░░░░░░░░░░░   4.1%
+YAML         ░░░░░░░░░░░░░░░░░░░░░   2.2%
 ```
-<sub>Auto-generated from recent commits — replace with your real split from the GitHub API or WakaTime if you connect it.</sub>
+<!--END_SECTION:waka-->
 
 ---
 
-### 💭 Quotes I Live By
+## 💭 Quote I Live By
 
-> "Code is like humor. When you have to explain it, it's bad."
-> — Cory House
+<div align="center">
+  
+> *"Any sufficiently advanced technology is indistinguishable from magic."*  
+> — Arthur C. Clarke
 
-> "First, solve the problem. Then, write the code."
-> — John Johnson
+> *"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."*  
+> — Edsger W. Dijkstra
+
+</div>
 
 ---
 
-### 🤝 Let's Connect & Collaborate!
+## 🤝 Let's Connect & Collaborate!
 
-I'm always excited to collaborate on interesting full stack or AI-powered projects, especially those involving:
+<div align="center">
 
-🌐 **Full stack web applications** &nbsp;|&nbsp; 🤖 **AI-integrated tools**
-☁️ **Cloud-deployed systems** &nbsp;|&nbsp; 🎨 **Design-to-code builds**
+I'm always excited to collaborate on innovative ML/AI projects, especially those involving:
 
-**Open to:** Collaborations • Freelance Projects • Internships • Open Source Contributions
+🤖 **Generative AI applications** | 🧠 **LLM fine-tuning & optimization**  
+📊 **End-to-end ML pipelines** | 🔍 **RAG systems & knowledge retrieval**
 
-💬 *"Let's build something that ships, not just something that compiles."*
+**Open to:** Collaborations • Freelance Projects • Research Opportunities • Open Source Contributions
 
+### 💬 *"Let's build the future of AI, one model at a time!"*
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
-
-
-
-
-
-
-
+</div>
