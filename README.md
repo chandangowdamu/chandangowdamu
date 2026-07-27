@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="YOUR_RAIN_GIF_URL" width="100%" alt="Matrix Rain"/>
-
-</div>
 
 # <div align="center">🙏 Namaskara! I'm Chandan Gowda</div>
 
