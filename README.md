@@ -90,12 +90,14 @@ class TechExplorer:
 me = TechExplorer()
 me.say_hi()
 ```
+<sub>
 🔥 Passionate about AI, Data Science, and Technology  
 💡 Interested in technical, semi-technical, and business-oriented opportunities  
 🌱 Exploring emerging technologies and building practical projects  
 🎯 Focused on learning, growth, and creating meaningful solutions  
 📊 Exploring data analysis, visualization, and modern tools  
 🤝 Strong believer in teamwork, communication, and continuous improvement
+</sub>
 ---
 
 ## 🔭 What I'm Up To Right Now
@@ -111,14 +113,10 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chandangowdamu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chandangowdamu&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandangowdamu&theme=tokyonight&hide_border=true"/>
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandangowdamu&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
 
 ---
