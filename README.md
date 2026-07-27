@@ -8,13 +8,9 @@
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandangowdamu@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandangowdamu)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://visionary-snickerdoodle-241088.netlify.app/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandangowdamu)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=chandangowdamu&style=for-the-badge&color=0A66C2)
 
 </div>
@@ -86,13 +82,12 @@ class TechExplorer:
 me = TechExplorer()
 me.say_hi()
 ```
-
-🔥 **Passionate about** Artificial Intelligence, Data Science, and Technology  
-💡 **Open to** technical, semi-technical, and business-oriented opportunities  
-🌱 **Currently learning** emerging technologies and building practical projects  
-🎯 **Mission** Learn, build, and grow while creating solutions that make a positive impact
-📊 **Exploring** data visualization, databases, and modern development tools
-🤝 **Value** teamwork, communication, leadership, and continuous improvement
+🔥 Passionate about AI, Data Science, and Technology  
+💡 Interested in technical, semi-technical, and business-oriented opportunities  
+🌱 Exploring emerging technologies and building practical projects  
+🎯 Focused on learning, growth, and creating meaningful solutions  
+📊 Exploring data analysis, visualization, and modern tools  
+🤝 Strong believer in teamwork, communication, and continuous improvement
 ---
 
 ## 🔭 What I'm Up To Right Now
@@ -108,16 +103,23 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandangowdamu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandangowdamu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandangowdamu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandangowdamu&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandangowdamu&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<img src="https://streak-stats.demolab.com?user=chandangowdamu&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chandangowdamu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=chandangowdamu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+
 </div>
 
 
