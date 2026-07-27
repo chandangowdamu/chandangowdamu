@@ -90,14 +90,14 @@ class TechExplorer:
 me = TechExplorer()
 me.say_hi()
 ```
-<sub>
-🔥 Passionate about AI, Data Science, and Technology  
-💡 Interested in technical, semi-technical, and business-oriented opportunities  
-🌱 Exploring emerging technologies and building practical projects  
-🎯 Focused on learning, growth, and creating meaningful solutions  
-📊 Exploring data analysis, visualization, and modern tools  
-🤝 Strong believer in teamwork, communication, and continuous improvement
-</sub>
+
+- 🔥 Passionate about **AI, Data Science, and Technology**
+- 💡 Open to **technical, semi-technical, and business-oriented opportunities**
+- 🌱 Exploring **emerging technologies** by building practical projects
+- 🎯 Focused on **continuous learning, growth, and creating meaningful solutions**
+- 📊 Learning **data analysis, visualization, and modern development tools**
+- 🤝 Strong believer in **teamwork, communication, and continuous improvement**
+
 ---
 
 ## 🔭 What I'm Up To Right Now
