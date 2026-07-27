@@ -1,3 +1,8 @@
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/c2318d88-e573-4086-8f23-dff8b2be9df2" autoplay muted loop playsinline width="100%"></video>
+</div>
+
+
 # <div align="center">🙏 Namaskara! I'm Chandan Gowda</div>
 
 
