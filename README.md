@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdscmh0bzhxYnNtOTBuNDhyMTJuaXN1aHgwazNlMTQyajFsNm9mMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1n92hYPiFQ0efcCtrF/giphy.gif" width="600" alt="Coding Animation">
+
+<img src="YOUR_RAIN_GIF_URL" width="100%" alt="Matrix Rain"/>
+
 </div>
 
 # <div align="center">🙏 Namaskara! I'm Chandan Gowda</div>
@@ -59,7 +61,7 @@ class TechExplorer:
             "CSS",
             "Python",
             "MySQL",
-            "MongoDB(Basics)
+            "MongoDB(Basics)"
         ]
 
         self.semi_technical_skills = [
