@@ -6,8 +6,8 @@
 </div>
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandangowdamu@gmail.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=chandangowdamu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandangowdamu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://visionary-snickerdoodle-241088.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandangowdamu)
