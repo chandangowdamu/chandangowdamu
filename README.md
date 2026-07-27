@@ -1,6 +1,3 @@
-## Hi there 👋
-
-# 💫 About Me:
 # Hi there 👋, I'm Chandan Gowda M U
 
 🎓 Bachelor of Computer Applications (BCA) Graduate
