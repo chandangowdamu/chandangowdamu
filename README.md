@@ -27,11 +27,11 @@
 ```python
 class FullStackDeveloper:
     def __init__(self):
-        self.name = "Darshan Hegde"
+        self.name = "Chandan Gowda M U"
         self.role = "Full Stack Developer & AI Explorer"
         self.education = "MCA Student"
         self.interests = ["Full Stack Development", "Artificial Intelligence",
-                           "Cloud Architecture", "System Design"]
+                           "Data Science, "System Design"]
         self.current_focus = "Building scalable, secure & intelligent applications"
         self.coffee_consumed = "∞"
 
@@ -59,7 +59,7 @@ me.say_hi()
 ### 📊 GitHub Statistics
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanHegde17&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="70%"/>
 </div>
 
 ---
@@ -69,7 +69,7 @@ me.say_hi()
 
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanHegde17&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandangowdamu&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="70%"/>
 </div>
 
 ---
