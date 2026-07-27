@@ -2,16 +2,24 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+GenAI+Enthusiast;Building+Intelligent+AI+Systems;Transforming+Data+into+Insights;Creating+The+Future+of+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Designing+Modern+Web+Experiences;Exploring+AI+%26+Data+Science;Analyzing+Data+%26+Finding+Insights;Always+Learning+%26+Growing" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=chandangowdamu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandangowdamu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://visionary-snickerdoodle-241088.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandangowdamu)
-![Profile Views](https://komarev.com/ghpvc/?username=chandangowdamu&style=for-the-badge&color=0A66C2)
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=chandangowdamu@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/chandangowdamu" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://visionary-snickerdoodle-241088.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://github.com/chandangowdamu" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=chandangowdamu&style=for-the-badge&color=0A66C2"/>
 
 </div>
 
