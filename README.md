@@ -6,12 +6,14 @@
 </div>
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anupamhegde)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://portfolio-two-rose-61.vercel.app/)
-![Profile Views](https://komarev.com/ghpvc/?username=anupam-hegde&color=blueviolet&style=for-the-badge)
+
+[![Email](https://img.shields.io/badge/Email-chandangowdamu%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandangowdamu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chandangowdamu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://visionary-snickerdoodle-241088.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/chandangowdamu)
+![Profile Views](https://komarev.com/ghpvc/?username=chandangowdamu&color=blueviolet&style=for-the-badge)
 
 </div>
-
 ---
 
 ## 🎯 About Me
