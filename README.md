@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdscmh0bzhxYnNtOTBuNDhyMTJuaXN1aHgwazNlMTQyajFsNm9mMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1n92hYPiFQ0efcCtrF/giphy.gif" width="600" alt="Coding Animation">
+</div>
 
 # <div align="center">🙏 Namaskara! I'm Chandan Gowda</div>
 
@@ -20,6 +23,7 @@
 <a href="https://github.com/chandangowdamu" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+
 <img src="https://komarev.com/ghpvc/?username=chandangowdamu&style=for-the-badge&color=0A66C2" alt="Profile Views">
 
 </div>
