@@ -23,8 +23,9 @@
 <a href="https://github.com/chandangowdamu" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<center> 
-<img src="https://komarev.com/ghpvc/?username=chandangowdamu&style=for-the-badge&color=0A66C2" alt="Profile Views"></center>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chandangowdamu&style=for-the-badge&color=0A66C2" alt="Profile Views">
+</p>
 
 </div>
 
