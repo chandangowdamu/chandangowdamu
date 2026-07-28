@@ -1,7 +1,3 @@
-<div align="center">
-<img width="800" height="450" alt="Chandan" src="https://github.com/user-attachments/assets/24100f0b-6400-423b-a289-3cc76526c1de" />
-</div>
-
 
 # <div align="center">🙏 Namaskara! I'm Chandan Gowda</div>
 
@@ -28,6 +24,10 @@
   <img src="https://komarev.com/ghpvc/?username=chandangowdamu&style=for-the-badge&color=0A66C2" alt="Profile Views">
 </p>
 
+</div>
+
+<div align="center">
+<img width="800" height="450" alt="Chandan" src="https://github.com/user-attachments/assets/24100f0b-6400-423b-a289-3cc76526c1de" />
 </div>
 
 
