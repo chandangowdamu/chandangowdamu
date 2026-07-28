@@ -195,14 +195,14 @@ me.say_hi()
 
 <!--START_SECTION:waka-->
 ```text
-💻 Frontend              ████████████████████░   HTML • CSS
+💻 Front-end              ████████████████████░   HTML • CSS
 🤖 AI & Data Science     ███████████████████░   Learning
 🌐 Web Development       █████████████████░░░   Projects
-🗄️ Databases             ██████████████░░░░░░   MySQL • MongoDB
+🗄️ Databases              ██████████████░░░░░░   MySQL • MongoDB
 🐍 Python                ████████████░░░░░░░░   Basic
 📊 Data Analysis         ███████████░░░░░░░░░   Tableau • Excel
 🚀 Continuous Learning   ████████████████████   Every Day
-☕ Curiosity             ████████████████████   Ulimited
+☕ Curiosity             ████████████████████   Unlimited
 ```
 <!--END_SECTION:waka-->
 
@@ -210,12 +210,12 @@ me.say_hi()
 
 <!--START_SECTION:interests-->
 ```text
-🤖 AI & Data Science      ██████████████████░░   Primary Interest
-🌐 Web Development        █████████████████░░░   Strong Interest
-📊 Data Analysis          ███████████████░░░░░   Growing Interest
-💼 Business Analysis      █████████████░░░░░░░   Exploring
-🛠️ Application Support    ███████████░░░░░░░░░   Interested
-🚀 Emerging Technologies  █████████████████░░░   Always Learning
+🤖 AI & Data Science     ██████████████████░░   Primary Interest
+🌐 Web Development       █████████████████░░░   Strong Interest
+📊 Data Analysis         ███████████████░░░░░   Growing Interest
+💼 Business Analysis     █████████████░░░░░░░   Exploring
+🛠️ Application Support   ███████████░░░░░░░░░   Interested
+🚀 Emerging Technologies █████████████████░░░   Always Learning
 ```
 <!--END_SECTION:interests-->
 
