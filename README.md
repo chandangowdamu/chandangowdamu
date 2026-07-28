@@ -189,36 +189,100 @@ me.say_hi()
 </div>
 
 
+
 ## 💻 Coding Stats
 
 ### 💡 Skills Overview
 
-<!--START_SECTION:waka-->
-```text
-💻 Front-end              ████████████████████░   HTML • CSS
-🤖 AI & Data Science     ███████████████████░   Learning
-🌐 Web Development       █████████████████░░░   Projects
-🗄️ Databases              ██████████████░░░░░░   MySQL • MongoDB
-🐍 Python                ████████████░░░░░░░░   Basic
-📊 Data Analysis         ███████████░░░░░░░░░   Tableau • Excel
-🚀 Continuous Learning   ████████████████████   Every Day
-☕ Curiosity             ████████████████████   Unlimited
-```
-<!--END_SECTION:waka-->
+<table>
+<tr>
+<td>💻 Frontend</td>
+<td>████████████████████░</td>
+<td>HTML • CSS</td>
+</tr>
+
+<tr>
+<td>🤖 AI & Data Science</td>
+<td>███████████████████░</td>
+<td>Learning</td>
+</tr>
+
+<tr>
+<td>🌐 Web Development</td>
+<td>█████████████████░░░</td>
+<td>Projects</td>
+</tr>
+
+<tr>
+<td>🗄️ Databases</td>
+<td>██████████████░░░░░░</td>
+<td>MySQL • MongoDB</td>
+</tr>
+
+<tr>
+<td>🐍 Python</td>
+<td>████████████░░░░░░░░</td>
+<td>Basic</td>
+</tr>
+
+<tr>
+<td>📊 Data Analysis</td>
+<td>███████████░░░░░░░░░</td>
+<td>Tableau • Excel</td>
+</tr>
+
+<tr>
+<td>🚀 Continuous Learning</td>
+<td>████████████████████</td>
+<td>Every Day</td>
+</tr>
+
+<tr>
+<td>☕ Curiosity</td>
+<td>∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞</td>
+<td>Unlimited</td>
+</tr>
+</table>
 
 ### 🚀 Areas of Interest
 
-<!--START_SECTION:interests-->
-```text
-🤖 AI & Data Science     ██████████████████░░   Primary Interest
-🌐 Web Development       █████████████████░░░   Strong Interest
-📊 Data Analysis         ███████████████░░░░░   Growing Interest
-💼 Business Analysis     █████████████░░░░░░░   Exploring
-🛠️ Application Support   ███████████░░░░░░░░░   Interested
-🚀 Emerging Technologies █████████████████░░░   Always Learning
-```
-<!--END_SECTION:interests-->
+<table>
+<tr>
+<td>🤖 AI & Data Science</td>
+<td>██████████████████░░</td>
+<td>Primary Interest</td>
+</tr>
 
+<tr>
+<td>🌐 Web Development</td>
+<td>█████████████████░░░</td>
+<td>Strong Interest</td>
+</tr>
+
+<tr>
+<td>📊 Data Analysis</td>
+<td>███████████████░░░░░</td>
+<td>Growing Interest</td>
+</tr>
+
+<tr>
+<td>💼 Business Analysis</td>
+<td>█████████████░░░░░░░</td>
+<td>Exploring</td>
+</tr>
+
+<tr>
+<td>🛠️ Application Support</td>
+<td>███████████░░░░░░░░░</td>
+<td>Interested</td>
+</tr>
+
+<tr>
+<td>🚀 Emerging Technologies</td>
+<td>█████████████████░░░</td>
+<td>Always Learning</td>
+</tr>
+</table>
 ---
 
 ## 💭 Quote I Live By
