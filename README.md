@@ -127,7 +127,9 @@ me.say_hi()
 </div>
 
 ---
-<p align="left"> 
+</p>
+</div>
+
 ## 🌟 Skills Beyond Code
 
 
