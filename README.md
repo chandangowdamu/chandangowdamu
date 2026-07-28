@@ -121,7 +121,7 @@ me.say_hi()
 
 <div align="center">
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandangowdamu&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandangowdamu&theme=tokyonight&hide_border=true"/>
 </div>
 <div align="center">
 </div>
@@ -130,10 +130,7 @@ me.say_hi()
 </p>
 </div>
 
-## 🌟 Skills Beyond Code
-
-
-### 💻 Programming & Development
+## 🌟 Skills Beyond Code ### 💻 Programming & Development
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,mysql,mongodb,git,github,vscode" />
 </p>
