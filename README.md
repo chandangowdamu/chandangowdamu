@@ -127,8 +127,7 @@ me.say_hi()
 </div>
 
 ---
-
-
+</div>
 ## 🌟 Skills Beyond Code
 
 ### 💻 Programming & Development
