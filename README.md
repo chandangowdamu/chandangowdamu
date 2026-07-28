@@ -127,9 +127,9 @@ me.say_hi()
 </div>
 
 ---
-</div>
-## 🌟 Skills Beyond Code
 
+## 🌟 Skills Beyond Code
+<p align="left"> 
 ### 💻 Programming & Development
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,mysql,mongodb,git,github,vscode" />
