@@ -1,5 +1,5 @@
 
-# <div align="center">👋 Namaskara! I'm Chandan Gowda 👨‍💻 </div>
+# <div align="center"> Namaskara! I'm Chandan Gowda  </div>
 
 
 <div align="center">
