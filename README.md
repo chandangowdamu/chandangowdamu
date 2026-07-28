@@ -116,21 +116,19 @@ me.say_hi()
 - ⚡ Fun fact: **I debug faster with coffee ☕ and lo-fi music 🎵**
 
 ---
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandangowdamu&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandangowdamu&theme=tokyonight&hide_border=true"/>
 </div>
 <div align="center">
 </div>
 
 ---
-</p>
-</div>
 
 ## 🌟 Skills Beyond Code
+
 ### 💻 Programming & Development
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,mysql,mongodb,git,github,vscode" />
@@ -159,6 +157,8 @@ me.say_hi()
 <img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 </p>
+
+
 
 ### 🌟 Areas of Interest
 <p align="center">
