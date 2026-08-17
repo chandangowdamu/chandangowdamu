@@ -17,11 +17,7 @@
 <a href="https://visionary-snickerdoodle-241088.netlify.app/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
-<a href="https://github.com/chandangowdamu" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
 <p align="center">
-    
 ![Profile Views](https://komarev.com/ghpvc/?username=chandangowdamu&label=Profile%20Views&style=for-the-badge&color=0A66C2)
 </p>
 
@@ -73,7 +69,6 @@ class TechExplorer:
             "VS Code",
             "Git",
             "GitHub",
-            "Technical Documentation",
             "Data Analysis (Basic)"
 
         ]
@@ -132,7 +127,7 @@ me.say_hi()
 
 ### 💻 Programming & Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,mysql,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,mongodb" />
 </p>
 
 ### 🤖 AI & Data Science
