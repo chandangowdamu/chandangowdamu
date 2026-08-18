@@ -17,8 +17,8 @@
 <a href="https://visionary-snickerdoodle-241088.netlify.app/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
-
 </div>
+
 
 <div align="center">
 <img width="800" height="450" alt="Chandan" src="https://github.com/user-attachments/assets/24100f0b-6400-423b-a289-3cc76526c1de" />
