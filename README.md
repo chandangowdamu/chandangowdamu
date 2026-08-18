@@ -17,11 +17,6 @@
 <a href="https://visionary-snickerdoodle-241088.netlify.app/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
-<p align="center">
-    
-![Profile Views](https://komarev.com/ghpvc/?username=chandangowdamu&label=Profile%20Views&style=for-the-badge&color=0A66C2)
-
-</p>
 
 </div>
 
