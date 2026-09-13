@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/chandangowdamu" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://visionary-snickerdoodle-241088.netlify.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://chandangowdamu.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
 </div>
